@@ -23,7 +23,7 @@ Zestify is a responsive e-commerce website designed with a modern, Gen-Z-friendl
 
 ```text
 zestify-ecommerce/
-├── index.html
+├── Admin
 ├── Zestify
 └── Backend
 ```
